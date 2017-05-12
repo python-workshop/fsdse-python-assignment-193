@@ -6,5 +6,3 @@ def build(a, b):
     if carry != 0:
         return build(result, carry)
     return result;
-result11 = build(3,2)
-print (result11)
