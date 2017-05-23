@@ -1,7 +1,6 @@
 # Find the sum of two integers without using the + or - sign.
 
-
-### Constraints
+## Constraints
 
 * Can we assume the inputs are valid?
    * No, check for None
